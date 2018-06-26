@@ -1,1 +1,0 @@
-# MediArch_Public
