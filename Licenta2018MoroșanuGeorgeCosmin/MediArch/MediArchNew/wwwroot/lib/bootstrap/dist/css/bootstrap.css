@@ -17,7 +17,9 @@ html {
     left: 50%;
     top: 1%;
 }
-.font_16 {
+.width_30 {
+    width: 30% !important;
+}.font_16 {
     font-size: 16px !important;
 }.top_padding_15 {
     padding-top: 15px;
@@ -552,7 +554,7 @@ footer a:hover {
     font-size: 16px;
 }
 .top_negative10 {
-    top: -10px !important;
+    top: -5px !important;
 }
 
 .top_negative6 {
