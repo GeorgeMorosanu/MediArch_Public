@@ -4,7 +4,7 @@ namespace MediArch.Services
 {
     public static class EmailSenderExtensions
     {
-        private const string ConfirmerEmail = ""; // Mailul
+        private const string ConfirmerEmail = "";  // Mailul
 
         public static Task SendEmailConfirmationAsync(this IEmailSender emailSender, string email, string userName, string link)
         {

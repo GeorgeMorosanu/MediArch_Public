@@ -8,7 +8,7 @@ namespace MediArch.Services
     // For more details see https://go.microsoft.com/fwlink/?LinkID=532713
     public class EmailSender : IEmailSender
     {
-        private const string Username = "";// Mailul
+        private const string Username = "";  // Mailul
         private const string Password = ""; // Parola
         
         private const string Server = "smtp.gmail.com";
