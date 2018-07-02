@@ -9,7 +9,7 @@ namespace MediArch.Services
     public class EmailSender : IEmailSender
     {
         private const string Username = ""; // Mail
-        private const string Password = "";  // Parola
+        private const string Password = ""; // Parola
         
         private const string Server = "smtp.gmail.com";
 
